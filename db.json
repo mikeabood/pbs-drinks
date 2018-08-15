@@ -2,7 +2,6 @@
 {
 	id: 1,
 	name: "Old Fashioned",
-	url: "https://cdn.liquor.com/wp-content/uploads/2018/05/08113350/bourbon-old-fashioned-720x720-recipe.jpg",
 	garnish: "Maraschino Cherry",
 	glass: "Rocks Glass",
 	ingreds: ["0.5oz Simple Syrup", "2-3 Dashes Bitters", "2oz Old Forester"],
@@ -12,7 +11,6 @@
 
 	id: 2,
 	name: "Old Fashioned",
-	url: "https://cdn.liquor.com/wp-content/uploads/2018/05/08113350/bourbon-old-fashioned-720x720-recipe.jpg",
 	garnish: "Maraschino Cherry",
 	glass: "Rocks Glass",
 	ingreds: ["0.5oz Simple Syrup", "2-3 Dashes Bitters", "2oz Old Forester"],
